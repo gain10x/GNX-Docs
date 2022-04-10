@@ -1,10 +1,14 @@
-# What is MyProduct?
+# GnX Whitepaper
+# Introducción
 
 {% hint style="info" %}
-**Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
+**Quiénes somos y hacia dónde vamos:** Somo un protocolo DEFI 2.0. La DAO utiliza el protocolo para recompensar a los poseedores de tokens con altos rendimientos, mientras utiliza sus reservas de tesorería para invertir e incubar en proyectos innovadores aportando el 50% de las ganancias a su tesorería.
 {% endhint %}
 
-Here are a couple of examples of succinct overviews from products with really great docs:
+# ¿Qué nos diferencia?
+
+A diferencia de los protocolos de moneda de reserva de primera generación, el objetivo de GnX DAO no es solo aumentar su capitalización de mercado y su tesorería a partir de la vinculación: GnX DAO también utilizará el 10 % de las ganancias de los bonos para invertir en activos criptográficos de alta calidad, convirtiendo efectivamente la DAO en un [Fondo Seed](FondoSeed/SeedStartup.md) **en la Blockchain.**
+
 
 > Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
 >
